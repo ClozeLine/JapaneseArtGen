@@ -49,6 +49,11 @@ This Python script generates a Japanese-style image with various elements such a
 - **Clouds**: Clouds scattered across the sky.
 - **Artwork**: Japanese artwork (kakejiku) pasted on the canvas.
 
+## Preview
+
+<img src="example_1" alt="Example 1" style="width: 45%; float: left; margin-right: 5px;">
+<img src="example_2" alt="Example 2" style="width: 45%; float: right; margin-left: 5px;">
+
 ## Note
 
 - Artwork images for kakejiku should be placed in the `Kakejiku` folder with filenames `kakejiku_1.png`, `kakejiku_2.png`, etc. (Make sure to change the randint() for image selection)
