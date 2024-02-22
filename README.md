@@ -51,8 +51,8 @@ This Python script generates a Japanese-style image with various elements such a
 
 ## Preview
 
-<img src="example_1" alt="Example 1" style="width: 45%; float: left; margin-right: 5px;">
-<img src="example_2" alt="Example 2" style="width: 45%; float: right; margin-left: 5px;">
+<img src="Japanese/Examples/example_1.png" alt="Example 1" style="width: 45%; float: left; margin-right: 5px;">
+<img src="Japanese/Examples/example_2.png" alt="Example 2" style="width: 45%; float: right; margin-left: 5px;">
 
 ## Note
 
