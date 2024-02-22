@@ -31,7 +31,7 @@ This Python script generates a Japanese-style image with various elements such a
 
 ## Usage
 
-1. Run the script `MsinGen.py`:
+1. Run the script `MainGen.py`:
 
     ```
     python MainGen.py
@@ -54,3 +54,11 @@ This Python script generates a Japanese-style image with various elements such a
 - Artwork images for kakejiku should be placed in the `Kakejiku` folder with filenames `kakejiku_1.png`, `kakejiku_2.png`, etc. (Make sure to change the randint() for image selection)
 
 Feel free to modify and experiment with the code to create your own unique Japanese-style images!
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
+
+## License
+
+This project is licensed under the Creative Commons License - see the [LICENSE](LICENSE) file for details.
