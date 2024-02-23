@@ -1,6 +1,6 @@
-# Japanese Style Image Generator
+# Ukyio-e Style Art Generator
 
-This Python script generates a Japanese-style image with various elements such as sun, ocean, sand, boats, birds, clouds, borders, and artwork (kakejiku).
+Generates a ukyio-e style image with elements such as sun, ocean, sand, boats, birds, clouds, borders, and artwork (kakejiku).
 
 ## Features
 
