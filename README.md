@@ -1,12 +1,13 @@
 # Ukyio-e Style Art Generator
 
 Generates a ukyio-e style image with elements such as sun, ocean, sand, boats, birds, clouds, borders, and artwork (kakejiku).
+Idea credit goes too ykxotkx, visit his [website](https://ykxotkx.art/) to see more of his artwork.
 
 ## Features
 
-- Generates a Japanese-style image with customizable elements.
-- Supports randomization and normal distributions for natural-looking placement of elements.
-- Allows customization of parameters such as sun size, ocean gradient, boat placement, bird placement, cloud placement, and more.
+- Generates a Ukiyo-e style image with customizable elements
+- Randomization and normal distributions for natural-looking placement of elements
+- Allows customization of parameters such as sun size, ocean gradient, boat placement, bird placement, cloud placement
 
 ## Requirements
 
