@@ -1,7 +1,8 @@
 # Ukyio-e Style Art Generator
 
 Generates a ukyio-e style image with elements such as sun, ocean, sand, boats, birds, clouds, borders, and artwork (kakejiku).
-Idea credit goes too ykxotkx, visit his [website](https://ykxotkx.art/) to see more of his artwork.
+
+Idea credit goes too **ykxotkx**, visit his [website](https://ykxotkx.art/) to see more of his artwork.
 
 ## Features
 
